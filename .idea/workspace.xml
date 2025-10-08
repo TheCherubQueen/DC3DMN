@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a2b5da2-397a-4755-a611-82c8d6dd6195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labs/Lab03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labs/flights.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CW_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cw/CW_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DC3DMN_Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Report.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DC3DMN_Sandbox.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Sandbox.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab02.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +34,10 @@
     &quot;assignee&quot;: &quot;TheCherubQueen&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="54729362-905e-4d05-880e-b1dfa431979a" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/TheCherubQueen/DC3DMN.git&quot;,
-    &quot;accountId&quot;: &quot;54729362-905e-4d05-880e-b1dfa431979a&quot;
+    &quot;accountId&quot;: &quot;061ff405-c30a-456f-b544-f92d5361d174&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -49,6 +51,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender may affect IDE&quot;,
+    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -58,10 +62,17 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jess\Repos\Uni\DC3DMN\cw" />
+      <recent name="C:\Users\Jess\Repos\Uni\DC3DMN" />
+      <recent name="C:\Users\Jess\Repos\Uni\DC3DMN\Labs" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +91,10 @@
       <workItem from="1757717027300" duration="741000" />
       <workItem from="1758800121305" duration="551000" />
       <workItem from="1758800682582" duration="95000" />
-      <workItem from="1758800796040" duration="5688000" />
+      <workItem from="1758800796040" duration="7490000" />
+      <workItem from="1759846332751" duration="2290000" />
+      <workItem from="1759918151547" duration="10789000" />
+      <workItem from="1759939344824" duration="650000" />
     </task>
     <servers />
   </component>
