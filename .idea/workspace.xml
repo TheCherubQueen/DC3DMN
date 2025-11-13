@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a2b5da2-397a-4755-a611-82c8d6dd6195" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labs/Lab03.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labs/flights.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CW_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cw/CW_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DC3DMN_Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Report.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DC3DMN_Sandbox.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Sandbox.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labs/Lab03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cw/DC3DMN_Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Report.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cw/DC3DMN_Sandbox.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Sandbox.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +73,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
         <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
       </set>
     </attachedChunks>
@@ -94,7 +90,9 @@
       <workItem from="1758800796040" duration="7490000" />
       <workItem from="1759846332751" duration="2290000" />
       <workItem from="1759918151547" duration="10789000" />
-      <workItem from="1759939344824" duration="650000" />
+      <workItem from="1759939344824" duration="717000" />
+      <workItem from="1760017818515" duration="7294000" />
+      <workItem from="1760609772792" duration="5000" />
     </task>
     <servers />
   </component>
