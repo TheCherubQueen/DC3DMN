@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a2b5da2-397a-4755-a611-82c8d6dd6195" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cw/ingest_schema.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labs/Lab03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Labs/Lab03.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cw/DC3DMN_Report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Report.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cw/DC3DMN_Sandbox.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cw/DC3DMN_Sandbox.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
